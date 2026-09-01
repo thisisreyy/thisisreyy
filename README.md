@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-card.svg" alt="thisisreyy@github" width="840">
+  <img src="./assets/card.svg" alt="thisisreyy@github" width="840">
 </p>
 
 ### Selected work
